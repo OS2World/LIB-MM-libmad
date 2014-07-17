@@ -2,3 +2,19 @@ LIB-MM-libmad
 =============
 
 MAD (libmad) is a high-quality MPEG audio decoder. It currently supports MPEG-1 and the MPEG-2 extension to Lower Sampling Frequencies, as well as the so-called MPEG 2.5 format. All three audio layers (Layer I, Layer II, and Layer III a.k.a. MP3) are fully implemented.
+
+LICENSE
+===============
+* GNU GPL V2
+
+COMPILE TOOLS
+===============
+* 
+
+AUTHORS
+===============
+* KO Myung-Hun
+
+LINKS
+===============
+* 
